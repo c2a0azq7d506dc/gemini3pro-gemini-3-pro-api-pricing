@@ -2,7 +2,7 @@
 
 > **input $1.6; output $9.6** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-85841e)** · **[Get an API key](https://go.apimart.ai/k-c60d0e)**
 
 Everything here refers to **gemini-3-pro** — also written **gemini3pro** or **gemini 3 pro**.
 
