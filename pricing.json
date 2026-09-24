@@ -1,0 +1,13 @@
+{
+  "repo": "gemini3pro-gemini-3-pro-api-pricing",
+  "model": "gemini-3-pro-preview",
+  "display": "Gemini 3 Pro",
+  "variant": "llm-pricing",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_million_tokens",
+  "tiers": {
+    "input": 1.6,
+    "output": 9.6
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
